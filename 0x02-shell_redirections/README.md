@@ -1,1 +1,1 @@
-My 0x02-shell_redirections Readme file
+My first readme file for the shell redirection tasks
